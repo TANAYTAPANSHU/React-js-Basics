@@ -1,5 +1,9 @@
 # React-js-Basics ✨👨‍💻
 
+![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-tomato.svg?style=flat&logo=git)](https://github.com/AnjaliSharma1234/COVID19-Tracker/issues) [![GitHub stars](https://img.shields.io/github/stars/AnjaliSharma1234/COVID19-Tracker.svg?logo=github)
+
+
+
 ## This Repo has all the resources and the intstructions to build your first react App
 
 __If you are just starting with react, I would recommend to go through this React doc : https://reactjs.org/docs/cdn-links.html__
