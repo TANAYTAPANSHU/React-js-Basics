@@ -1,6 +1,6 @@
 # React-js-Basics ✨👨‍💻
 
-![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-tomato.svg?style=flat&logo=git)] 
+![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-tomato.svg?style=flat&logo=git)
 
 
 
