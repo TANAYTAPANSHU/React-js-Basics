@@ -1,6 +1,6 @@
 # React-js-Basics ✨👨‍💻
 
-![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-tomato.svg?style=flat&logo=git)] [![GitHub stars](https://img.shields.io/github/stars/AnjaliSharma1234/COVID19-Tracker.svg?logo=github)
+![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-tomato.svg?style=flat&logo=git)] 
 
 
 
